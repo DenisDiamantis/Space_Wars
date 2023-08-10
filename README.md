@@ -9,7 +9,7 @@ by getting hit with projectiles or coliding with enemies spawing a shield for a 
 There are also boost that if you colide with them give you extra effects such as 
 faster reload, slowed enemies and projectiles or extra life and a shield.
 
-This project was made with Simple Game Graphics Library. Install it fisrt to play.
+This project was made with Simple Game Graphics Library. Install it first to play.
 
 This library (SGG) aims to provide a simple interface for students to include basic graphics, audio and interaction functionality in their applications written in C and C++.SGG offers an abstraction and simplification layer over SDL, OpenGL and other core windowing, graphics and audio libraries, providing a clear, simple and hasle - free programming interface to build from simple interactive applications to 2D computer games and data visualization tools.
 
